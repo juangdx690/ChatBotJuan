@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatBotJuan</string>
+    <string name="saludoInicio">¡Hola! Hoy estas hablando con </string>
+    <string name="saludoInicio2">¿Que puedo hacer por tí? </string>
+    <string name="buscar">busca</string>
+
+    <string name="enviar">Enviar</string>
+    <string name="hintmensaje">Escribe un mensaje ...</string>
+
+
+</resources>
